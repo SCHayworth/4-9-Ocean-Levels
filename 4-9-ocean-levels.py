@@ -24,4 +24,4 @@ for year in range(1, 26):
     ocean_level = year * RISE_RATE
 
     # Print the year and ocean_level
-    print(f'{year:<3} {ocean_level:>10.2f}')   
+    print(f'{year:<3} {ocean_level:>20.2f}')   
